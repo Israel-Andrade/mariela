@@ -1,0 +1,10 @@
+Team members: Emily Garcia, Steven Groves, Israel Andrade 
+
+
+                               two_a.txt           two_b.txt                   %difference
+Mean                           0.00243506          0.00230615                  5.43769
+Standard                       0.334079            0.32225                     3.60468
+Variance                       0.111609            0.103845                    7.20701
+Average Power                  0.111615            0.10385                     7.2072
+Average Magnitude              0.226944            0.273091                    18.4577
+Number of Zero Crossings       111                 67                          49.4382
